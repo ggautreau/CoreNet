@@ -1,0 +1,4 @@
+useDynLib(CoreExtension)
+export("randError")
+exportClasses("corenet")
+exportMethods("plot","show","nem",getPartition)
